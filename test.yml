@@ -1,0 +1,22 @@
+name: Timly
+age: 99
+address: "aa: re"
+active: false
+obj:
+  k1: v
+  k2:
+    kk: 34
+jsonObj: { key: value, k: { key: value, gg: 34 } }
+array:
+  - it1
+  - it2
+  - 3435
+  - { key: value, aa: 34 }
+longText: >
+  eerk fjk jasjfkaj k1
+  skdafjlasdjflj lsdak kdsklfjlas
+  dfasdfasdf
+longText1: |
+  eerk fjk jasjfkaj k1
+  skdafjlasdjflj lsdak kdsklfjlas
+  dfasdfasdf
